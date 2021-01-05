@@ -448,6 +448,10 @@ header {
 	
 }
 
+@font-face {
+  font-family: ocr a extended;
+  src: url("OCRAEXT.TTF");
+}
 
 
 .textBx .title h1 {
